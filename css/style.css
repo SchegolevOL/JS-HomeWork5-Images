@@ -1,0 +1,11 @@
+.content{
+    display: flex;
+}
+.button{
+    flex-basis: contentent;
+    margin-top: 100px;
+}
+.picture{
+    width: 500px;
+    height: 400px;
+}
